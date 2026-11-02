@@ -13,7 +13,7 @@
 | 3 | Google Tag на сайте, источник перехода и отчёты GA4 | [lesson_03/homework_03.md](lesson_03/homework_03.md)  
 | 4 | Свои события и параметры в GA4 | [lesson_04/homework_04.md](lesson_04/homework_04.md) 
 | 5 | Контролируемая таблица заявок | [lesson_05/homework_05.md](lesson_05/homework_05.md) 
-| 6 | Подготовка данных в Google Таблицах | [lesson_06/homework_06.md](lesson_06/homework_06.md) + [leads_clean.csv](lesson_06/leads_clean.csv) | ✅ сдано (без кадра 01) |
+| 6 | Подготовка данных в Google Таблицах | [lesson_06/homework_06.md](lesson_06/homework_06.md) + [leads_clean.csv](lesson_06/leads_clean.csv) 
 | 7 | Instagram → ManyChat → заявка | [lesson_07/homework_07.md](lesson_07/homework_07.md) 
 
 ## Курсовая работа
