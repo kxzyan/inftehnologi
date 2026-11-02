@@ -8,7 +8,7 @@
 
 | Что | Ссылка |
 |---|---|
-| Репозиторий проекта | ___ |
+| Репозиторий проекта | https://github.com/kxzyan/tz-03-avtoshkola-pravyy-ryad |
 | Сайт на Vercel | ___ |
 | Описание работы `docs/opisanie.md` | ___ |
 | Презентация `presentation/zashchita.pdf` | ___ |
