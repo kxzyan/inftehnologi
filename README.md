@@ -8,13 +8,13 @@
 
 | № | Тема | Бланк | Статус |
 |---|---|---|---|
-| 1 | Цифровая воронка: путь данных от ссылки до заявки | [lesson_01/homework_01.md](lesson_01/homework_01.md) | ⚠️ частично (таблица из трёх действий не заполнена) |
-| 2 | Анализ воронки и структура Google Analytics 4 | [lesson_02/homework_02.md](lesson_02/homework_02.md) | ✅ сдано |
-| 3 | Google Tag на сайте, источник перехода и отчёты GA4 | [lesson_03/homework_03.md](lesson_03/homework_03.md) | ⚠️ частично (кадры 01–03, без отчётов) |
-| 4 | Свои события и параметры в GA4 | [lesson_04/homework_04.md](lesson_04/homework_04.md) | ✅ сдано |
-| 5 | Контролируемая таблица заявок | [lesson_05/homework_05.md](lesson_05/homework_05.md) | ✅ сдано |
+| 1 | Цифровая воронка: путь данных от ссылки до заявки | [lesson_01/homework_01.md](lesson_01/homework_01.md) 
+| 2 | Анализ воронки и структура Google Analytics 4 | [lesson_02/homework_02.md](lesson_02/homework_02.md) 
+| 3 | Google Tag на сайте, источник перехода и отчёты GA4 | [lesson_03/homework_03.md](lesson_03/homework_03.md)  
+| 4 | Свои события и параметры в GA4 | [lesson_04/homework_04.md](lesson_04/homework_04.md) 
+| 5 | Контролируемая таблица заявок | [lesson_05/homework_05.md](lesson_05/homework_05.md) 
 | 6 | Подготовка данных в Google Таблицах | [lesson_06/homework_06.md](lesson_06/homework_06.md) + [leads_clean.csv](lesson_06/leads_clean.csv) | ✅ сдано (без кадра 01) |
-| 7 | Instagram → ManyChat → заявка | [lesson_07/homework_07.md](lesson_07/homework_07.md) | ✅ сдано (без кадров 05 и 06) |
+| 7 | Instagram → ManyChat → заявка | [lesson_07/homework_07.md](lesson_07/homework_07.md) 
 
 ## Курсовая работа
 
