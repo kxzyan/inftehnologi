@@ -200,46 +200,46 @@
 
 | № | Шаг | Выполнено |
 |---|---|---|
-| 1 | Вход в Google Analytics под своим аккаунтом | да / нет |
-| 2 | Создан Analytics Account | да / нет |
-| 3 | Создан Property | да / нет |
-| 4 | Выбраны часовой пояс, валюта и общие сведения | да / нет |
-| 5 | Выбраны бизнес-цели | да / нет |
-| 6 | Создан ресурс | да / нет |
-| 7 | Создан Web Data Stream | да / нет |
-| 8 | Проверены Website URL, Stream name, Enhanced Measurement | да / нет |
-| 9 | Поток создан | да / нет |
-| 10 | Найден Measurement ID | да / нет |
+| 1 | Вход в Google Analytics под своим аккаунтом | да |
+| 2 | Создан Analytics Account | да |
+| 3 | Создан Property | да |
+| 4 | Выбраны часовой пояс, валюта и общие сведения | да |
+| 5 | Выбраны бизнес-цели | да |
+| 6 | Создан ресурс | да |
+| 7 | Создан Web Data Stream | да |
+| 8 | Проверены Website URL, Stream name, Enhanced Measurement | да |
+| 9 | Поток создан | да |
+| 10 | Найден Measurement ID | да |
 
 ## 2.2. Что получилось
 
 | Поле | Значение |
 |---|---|
-| Analytics Account |  |
-| Property |  |
-| Reporting time zone |  |
-| Currency |  |
-| Выбранные бизнес-цели |  |
-| Stream name |  |
-| Website URL |  |
-| Stream ID (числовой) |  |
-| Measurement ID (`G-…`) |  |
-| Enhanced Measurement | включено / выключено |
+| Analytics Account | Lijvaku ОП03 (ID 414400271) |
+| Property | Avtoshkola Pravyy Ryad (ID 561949718) |
+| Reporting time zone | Россия, (GMT+03:00) Москва |
+| Currency | российский рубль (₽) |
+| Выбранные бизнес-цели | Привлечение лидов; Анализ трафика сайта и/или приложения |
+| Stream name | Avtoshkola Pravyy Ryad Site |
+| Website URL | https://tz-03-avtoshkola-pravyy-ryad-git-main-asd-56a7.vercel.app |
+| Stream ID (числовой) | 16256934210 |
+| Measurement ID (`G-…`) | G-2JQK10WEM7 |
+| Enhanced Measurement | включено |
 
 Stream ID и Measurement ID — это разные идентификаторы. На сайт в задании 3
 ставится второй, вида `G-XXXXXXXXXX`.
 
 ## 2.3. Скриншоты
 
-Скриншот: вставьте строку `![Создание Analytics Account](screens/01-analytics-account.png)`
+![Создание Analytics Account](screens/01-analytics-account.png)
 
-Скриншот: вставьте строку `![Ресурс: часовой пояс и валюта](screens/02-property.png)`
+![Ресурс: часовой пояс и валюта](screens/02-property.png)
 
-Скриншот: вставьте строку `![Выбор бизнес-целей](screens/03-business-goals.png)`
+![Выбор бизнес-целей](screens/03-business-goals.png)
 
-Скриншот: вставьте строку `![Веб-поток: Website URL, Stream name, Enhanced Measurement](screens/04-web-stream.png)`
+![Веб-поток: Website URL, Stream name, Enhanced Measurement](screens/04-web-stream.png)
 
-Скриншот: вставьте строку `![Web stream details с Measurement ID](screens/05-measurement-id.png)`
+![Web stream details с Measurement ID](screens/05-measurement-id.png)
 
 ---
 
