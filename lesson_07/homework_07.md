@@ -27,8 +27,8 @@
 |---|---|
 | Учебный аккаунт Instagram |  |
 | Ссылка на учебную публикацию |  |
-| Публичный адрес сайта |  |
-| Measurement ID (`G-…`) |  |
+| Публичный адрес сайта | https://tz-03-avtoshkola-pravyy-ryad-git-main-asd-56a7.vercel.app |
+| Measurement ID (`G-…`) | G-2JQK10WEM7 |
 
 Скриншот: вставьте строку `![Instagram подключён к ManyChat](screens/01-connected.png)`
 
